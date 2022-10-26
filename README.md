@@ -22,7 +22,7 @@ Step 7: In Jenkins, click on ‘New Item’ to create a new project.
 
 Step 8: Give your project a name, then choose ‘Pipeline’, name it whatever you'd like and finally, click on ‘OK’.
 
-Step 9: Configure and execute pipline job through any script file by choosing "Pipeline script" as Destination and pasting the contents into Script.
+Step 9: Configure and execute pipline job through any script file in the repository as needed (feel free to test!) by choosing "Pipeline script" as Destination and pasting the contents into Script.
 
 Step 10: Configure to modify the existing job, go to 'Advanced Project Options' and then click 'Pipeline script from SCM'. 
 
