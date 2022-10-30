@@ -1,5 +1,5 @@
 # Continuous-Integration-DevOps-Pipeline
-End-to-end DevOps testing framework for made using Python🐍, Jenkins👨🏻, DataDog🐶, Git🪣, and Elastic Search🔎! :scream::scream:
+End-to-end DevOps testing framework for made using 🐍Python, 👨🏻Jenkins, 🐶DataDog, 🪣Git, and 🔎Elastic Search! :scream::scream:
 
 Includes a separate Android🤖 based infotainment system for a potential test bench. 
 This project is basically a DevOps pipeline for developing applications and lets you run an integration build every time you push a change to your Git repository. 
