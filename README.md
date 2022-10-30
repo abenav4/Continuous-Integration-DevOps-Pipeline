@@ -1,10 +1,11 @@
 # Continuous-Integration-DevOps-Pipeline
-End-to-end framework using Python🐍, Jenkins👨🏻, DataDog🐶, Git🪣, and Elastic Search🔎! :scream::scream:
+End-to-end DevOps testing framework for made using Python🐍, Jenkins👨🏻, DataDog🐶, Git🪣, and Elastic Search🔎! :scream::scream:
 
-Includes a separate Android🤖 based infotainment for a potential test bench. 
-This project is basically a DevOps pipeline for developing applications for apps and lets you run an integration build every time you push a change to your Git repository. 
+Includes a separate Android🤖 based infotainment system for a potential test bench. 
+This project is basically a DevOps pipeline for developing applications and lets you run an integration build every time you push a change to your Git repository. 
 
-## GitHub section:
+### Configuring your GitHub repository
+
 Step 1: Go to your GitHub repository and click on 'Settings'.
 
 Step 2: Click on Webhooks and then click on ‘Add webhook’.
@@ -13,7 +14,7 @@ Step 3: In the ‘Payload URL’ field, paste your Jenkins environment URL. At t
 
 Step 4: In the page ‘Which events would you like to trigger this webhook?’ choose ‘Let me select individual events.’ Then, check ‘Pull Requests’ and ‘Pushes’. At the end of this option, make sure that the ‘Active’ option is checked and click on ‘Add webhook’.
 
-## Configuring Jenkins
+### Configuring Jenkins
 Step 5: Download Jenkins (Generic Java package (.war)): https://jenkins.io/download/
 
 Step 6: Execute Jenkins as a Java binary (java -jar ./jenkins.war)
