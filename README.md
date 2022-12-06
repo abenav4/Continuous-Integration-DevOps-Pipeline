@@ -1,4 +1,4 @@
-# Continuous Integration 🛠️ DevOps Pipeline 👨🏿‍🔧
+# Continuous Integration 🛠️ DevOps Pipeline 👨‍🔧
 End-to-end DevOps testing framework for made using 🐍 Python, 👨🏻 Jenkins, 🐶 DataDog, 🪣 Git, and 🔎 Elastic Search! :scream::scream:
 
 Includes a separate 🤖Android based infotainment system for a potential test bench. 
